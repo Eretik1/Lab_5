@@ -1,0 +1,24 @@
+# ninja log v5
+18	659	7346938719006739	CMakeFiles/multifile.dir/returnNumber.cpp.obj	de522356478d2815
+6	469	7346939455533823	CMakeFiles/multifile.dir/main.cpp.obj	4e48720ef9135497
+505	625	7346958149018304	multifile.exe	3f2ac35d20e31627
+8	504	7346958147818233	CMakeFiles/multifile.dir/returnPrivate.cpp.obj	715f098e2bc758a0
+19	514	7346972334319856	CMakeFiles/multifile.dir/main.cpp.obj	4e48720ef9135497
+24	614	7346972335359420	CMakeFiles/multifile.dir/returnException.cpp.obj	bc985c5dec0037d2
+615	751	7346972336639350	multifile.exe	77470e6aa1fddfae
+5	354	7346974767836134	CMakeFiles/multifile.dir/main.cpp.obj	4e48720ef9135497
+12	452	7346974768795060	CMakeFiles/multifile.dir/returnException.cpp.obj	bc985c5dec0037d2
+452	579	7346974769995116	multifile.exe	77470e6aa1fddfae
+8	406	7346975660219338	CMakeFiles/multifile.dir/main.cpp.obj	4e48720ef9135497
+406	531	7346975661418840	multifile.exe	77470e6aa1fddfae
+32	507	7346981123922974	CMakeFiles/multifile.dir/returnPrivate.cpp.obj	715f098e2bc758a0
+37	524	7346981124082911	CMakeFiles/multifile.dir/returnException.cpp.obj	bc985c5dec0037d2
+524	654	7346981125282419	multifile.exe	77470e6aa1fddfae
+28	432	7346981501450059	CMakeFiles/multifile.dir/returnException.cpp.obj	bc985c5dec0037d2
+433	562	7346981502649598	multifile.exe	77470e6aa1fddfae
+29	392	7346981836457248	CMakeFiles/multifile.dir/main.cpp.obj	4e48720ef9135497
+392	522	7346981837736975	multifile.exe	77470e6aa1fddfae
+28	346	7346982077802552	CMakeFiles/multifile.dir/main.cpp.obj	4e48720ef9135497
+346	467	7346982078922690	multifile.exe	77470e6aa1fddfae
+29	457	7346988680964313	CMakeFiles/multifile.dir/main.cpp.obj	4e48720ef9135497
+457	622	7346988682563649	multifile.exe	77470e6aa1fddfae

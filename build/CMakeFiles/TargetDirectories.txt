@@ -1,0 +1,5 @@
+D:/progects/progect5/build/CMakeFiles/multifile.dir
+D:/progects/progect5/build/CMakeFiles/package.dir
+D:/progects/progect5/build/CMakeFiles/package_source.dir
+D:/progects/progect5/build/CMakeFiles/edit_cache.dir
+D:/progects/progect5/build/CMakeFiles/rebuild_cache.dir

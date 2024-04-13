@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/progects/progect5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\main.cpp.obj -c D:\\progects\\progect5\\main.cpp",
+  "file": "D:\\progects\\progect5\\main.cpp",
+  "output": "CMakeFiles\\multifile.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\returnNumber.cpp.obj -c D:\\progects\\progect5\\returnNumber.cpp",
+  "file": "D:\\progects\\progect5\\returnNumber.cpp",
+  "output": "CMakeFiles\\multifile.dir\\returnNumber.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\returnPrivate.cpp.obj -c D:\\progects\\progect5\\returnPrivate.cpp",
+  "file": "D:\\progects\\progect5\\returnPrivate.cpp",
+  "output": "CMakeFiles\\multifile.dir\\returnPrivate.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\returnException.cpp.obj -c D:\\progects\\progect5\\returnException.cpp",
+  "file": "D:\\progects\\progect5\\returnException.cpp",
+  "output": "CMakeFiles\\multifile.dir\\returnException.cpp.obj"
+}
+]
